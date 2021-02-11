@@ -4,7 +4,7 @@ Stack
 
 * Nginx
 * PHP 7.4
-* CakePHP vesion 3.8.x
+* CakePHP vesion 4.x
 
 Loaded PHP Extensions
 
